@@ -1,2 +1,2 @@
-It will be open-sourced upon acceptance, and the code will be refactored for ease of use.
+Upon acceptance of the paper, the code will be open-sourced and made available for public use.
 
